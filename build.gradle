@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'engtelecom'
+group 'EngTelecom'
 version '1.0'
 
 sourceCompatibility = 1.8
