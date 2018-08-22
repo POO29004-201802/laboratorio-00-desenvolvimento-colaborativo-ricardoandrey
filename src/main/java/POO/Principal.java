@@ -16,7 +16,10 @@ public class Principal {
             int d;
             switch (opcao) {
                 case 1:
-
+                    System.out.println("Entre com o lado do quadrado:");
+                    Quadrado q1 = new Quadrado();
+                    d = ler.nextInt();
+                    q1.DesenhaQuadrado(d);
                     break;
 
                 case 2:
